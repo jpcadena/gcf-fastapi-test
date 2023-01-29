@@ -60,7 +60,7 @@
 
 [![Project][project-screenshot]](https://example.com)
 
-This project is about gcf-fastapi-test...
+This project is a test for GCF using FastAPI.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

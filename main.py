@@ -3,8 +3,8 @@ Main script
 """
 from fastapi import FastAPI
 
-DESCRIPTION: str = """**FastAPI**, **Firestore** and **Aioredis** helps you
- do awesome stuff. 🚀\n\n ![Firestore](
+DESCRIPTION: str = """**FastAPI**, and **Firestore** helps you do
+ awesome stuff. 🚀\n\n ![Firestore](
 https://miro.medium.com/max/1200/1*a2Da_CQHUsSKTCTRI2tYhQ.png)"""
 contact: dict[str, str] = {
     "name": "Juan Pablo Cadena Aguilar",
